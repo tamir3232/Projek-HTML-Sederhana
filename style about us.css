@@ -1,0 +1,102 @@
+body{
+	 font: 16px/28px arial, sans-serif;
+	 background-color: #A0522D;
+	 justify-content: center;
+	 align-items: center;
+}
+
+.login-form {
+	margin-top:100px;
+	margin-left:160px;
+	margin-right:160px;
+	padding-top:4px;
+	padding-bottom:2px;
+	border-radius:10%;
+}
+
+.header{
+	 padding:30 px;
+	 text-align:center;
+	padding-top:10px;
+}
+
+.header .judul {
+	font-size:30;
+	font-weight:bold;
+	text-align:center;	
+	font-family:'balinese family';
+	font-size:120px;
+	margin-bottom:-0px;
+}
+
+.judul {
+	font-size:30;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;
+}
+
+.HEADER UL LI {
+	DISPLAY: INLINE-BLOCK;
+	MARGIN-RIGHT:10PX;
+	margin-bottom:10px;
+}
+
+.header ul li a {
+	text-decoration: none;
+	MARGIN-RIGHT:25PX;
+	padding:5px;
+}
+
+.header ul li :hover {
+	background-color:brown;
+	color:white;
+}
+
+
+.header a{
+	text-decoration: none;
+	color:#B8860B;
+}
+
+.container {
+	width:1500px;
+	height:2500px;
+	margin:auto;
+	background-color:white;
+	border:1px solid;
+	margin-top:-20px;
+}
+
+.active a{
+	background-color:brown;
+	color:white;
+}
+
+.img-wrap{width:99%}
+.img-wrap img{width: 30%;padding: 10px;border-radius: 50%; box-shadow:0 0 10px #999999}
+
+.img-wrap1{width:99%}
+.img-wrap1 img{width: 30%;padding: 10px;border-radius:50%; box-shadow:0 0 10px #999999}
+
+.img-wrap2{width:99%}
+.img-wrap2 img{width: 30%;padding: 10px;border-radius:50%; box-shadow:0 0 10px #999999}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	

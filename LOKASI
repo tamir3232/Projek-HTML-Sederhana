@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>HOTEL HOTELAN</title>
+	<link rel="stylesheet" href="STYLElokasi.css">
+</head>
+	<body>
+	<div class="container">
+		<div class="header">
+			<h1 class="judul">HOTEL HOTELAN</h1>
+			<ul>
+				<li><a href="#">HOME</a></li>
+				<li><a href="#">KAMAR</a></li>
+				<li><a href="#">LOKASI</a></li>
+				<li><a href="#">FASILITAS</a></li>
+			
+			</ul>
+		</div>	
+</div>
+<body>
